@@ -1,4 +1,6 @@
-const navData = {
+import type { NavDataTypes } from "types/navDataTypes";
+
+const navData: NavDataTypes = {
   logo: {
     image: "",
     altText: "loopstudios",
