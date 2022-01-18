@@ -8,7 +8,7 @@ const navData: NavDataTypes = {
   },
   menu: [
     {
-      title: "about",
+      title: "abouts",
       link: "/",
     },
     {
