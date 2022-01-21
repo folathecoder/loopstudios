@@ -29,7 +29,7 @@ const navData: NavDataTypes = {
     },
   ],
   social: [
-    { title: "facebook", icon: "/", link: "https://facebook.com" },
+    { title: "facebook", icon: "//", link: "https://facebook.com" },
     { title: "twitter", icon: "/", link: "https://twitter.com" },
     { title: "pinterest", icon: "/", link: "https://pinterest.com" },
     { title: "instagram", icon: "/", link: "https://instagram.com" },

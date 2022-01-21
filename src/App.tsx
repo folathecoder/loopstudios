@@ -14,9 +14,6 @@ declare module "@mui/material/styles/createPalette" {
   }
 }
 
-
-
-
 const theme = createTheme({
   palette: {
     primary: {
