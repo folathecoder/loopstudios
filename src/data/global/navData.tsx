@@ -3,13 +3,13 @@ import type { NavDataTypes } from "types/navDataTypes";
 const navData: NavDataTypes = {
   logo: {
     image: "",
-    altText: "loopstudio",
+    altText: "loopstudios",
     link: "/",
   },
   menu: [
     {
       title: "abouts",
-      link: "////",
+      link: "/////",
     },
     {
       title: "careers",
