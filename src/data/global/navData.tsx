@@ -21,7 +21,7 @@ const navData: NavDataTypes = {
     },
     {
       title: "products",
-      link: "/",
+      link: "//",
     },
     {
       title: "support",
