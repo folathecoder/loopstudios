@@ -2,7 +2,7 @@ import { FC } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { createTheme, ThemeProvider } from "@mui/system";
 import { CssBaseline } from "@mui/material";
-//TODO: Import Pages (Routes)
+//TODO: Import Pages
 import Homepage from "routes/Homepage";
 
 declare module "@mui/material/styles/createPalette" {
