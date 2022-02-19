@@ -1,4 +1,4 @@
-//TODO: Nav Data Types
+//TODO: Nav Data Types..
 export interface NavDataTypes {
   logo: {
     image: string;
