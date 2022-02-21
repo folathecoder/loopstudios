@@ -6,7 +6,7 @@ import { styled } from "@mui/styles";
 const Header = styled("header")(({ theme }) => ({
   minHeight: "3rem",
   maxWidth: "100%",
-  backgroundColor: theme.palette.primary.main,
+  // backgroundColor: theme.palette.primary.main,
 }));
 
 const Homepage: FC = () => {
